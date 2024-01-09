@@ -1,0 +1,1 @@
+docker build -t dockerhub.webbfontaine.com/ansible/awx-ee:custom .
